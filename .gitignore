@@ -1,0 +1,10 @@
+db.sqlite3
+*.sqlite3
+venv/
+*.pyc
+*.env
+.vscode/
+.idea/
+*.vs
+.vs/
+
